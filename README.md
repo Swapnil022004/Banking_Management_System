@@ -15,12 +15,12 @@ such as customer information, account balances, transaction histories.
 
 ## ER Diagram
 
-![er diag](images/er_diagram.png)
+![er diag](Images/ER_diagram.png)
 
 ## ER to Table
 
 ### 1NF
-![1nf table](images/er_to_table%20(1nf).png)
+![1nf table](Images/ER_to_Table%20(1NF).png)
 
 ### 2/3NF
-![3nf table](images/er_to_table%20(3nf).png)
+![3nf table](Images/ER_to_Table%20(3NF).png)
