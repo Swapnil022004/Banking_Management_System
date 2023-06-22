@@ -16,8 +16,6 @@ such as customer information, account balances, transaction histories.
 ## ER Diagram
 
 ![er diag](Images/ER_diagram.png)
-![er diag](Images/ER-diagram.png)
-![er diag](Images/ERdiagram.png)
 
 ## ER to Table
 
