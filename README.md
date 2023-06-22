@@ -25,3 +25,5 @@ such as customer information, account balances, transaction histories. We achiev
 
 ### 2/3NF
 ![3nf table](Images/ER_to_Table%20(3NF).png)
+
+Credits :- [Rushil](https://github.com/Rushil08), [Nischay](https://github.com/MoryaNischay), [Swapnil](https://github.com/Swapnil022004) and [Aditya](https://github.com/AdityaTomar-AT) 
